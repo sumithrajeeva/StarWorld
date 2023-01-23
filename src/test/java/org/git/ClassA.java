@@ -14,6 +14,24 @@ private void Andhra() {
 	
 
 }
+private void Mysore() {
+	
+
+}
+
+private void Goa() {
+
+
+}
+private void Madhya() {
+
+
+}
+
+
+
+
+
 
 
 	
